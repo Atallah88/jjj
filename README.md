@@ -1,5 +1,3 @@
-# jjj
-<!DOCTYPE html>
 <html lang="ar">
 <head>
 <meta charset="UTF-8">
@@ -40,8 +38,6 @@ strong><br>
 <hr>     
 <p id="conclusion"><strong>الخاتمة:</strong><br>
 تعلم البرمجة قد يكون تحديًا، لكنه مجزي للغاية. باتباع هذه الخطوات، ستكون على طريقك لتصبح مبرمجًا ماهرًا. لا تستسلم، وواصل التعلم والتطبيق.</p>
-</div>
-</div>
 <hr>
 <hr>
 <div class="footer">
