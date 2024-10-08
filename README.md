@@ -43,5 +43,3 @@ strong><br>
 <div class="footer">
 <p>Instagram: <a href="https://www.instagram.com/ia_di8" target="_blank"> @ia_di8</a></p>
 </div>
-</body>
-</html>
